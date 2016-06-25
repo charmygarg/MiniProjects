@@ -1,6 +1,6 @@
 import javax.swing.*;
 /**
- * Created by Charmy Garg on 2/14/2016.
+ * Created by Charmy Garg on 2/1/2016.
  */
 public class TicTacToe {
     public static void main(String[] args) {
